@@ -1,9 +1,9 @@
-![image](https://github.com/user-attachments/assets/c6266641-13b0-4f57-8b80-346e068d0371)# Deep Learning-Based Personalized Phototherapy Mask
+# Deep Learning-Based Personalized Phototherapy Mask
 
 Group Leader: Junhao Xu
 
 Group Members : Wuyi Yu,
-Baiyan Chen (Liberty666-666,his repository: https://github.com/Liberty666-666/1.git),
+Baiyan Chen (Liberty666-666, his repository: https://github.com/Liberty666-666/1.git),
 Dunhao Zhu,
 Fenglin Hu 
 
